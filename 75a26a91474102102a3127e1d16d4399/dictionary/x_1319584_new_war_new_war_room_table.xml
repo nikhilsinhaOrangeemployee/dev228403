@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f6032a91478102102a3127e1d16d43c4" extends="task" label="New War Room Table" max_length="40" name="x_1319584_new_war_new_war_room_table" type="collection">
+        <element label="Major Escalation" max_length="40" name="major_escalation" type="boolean"/>
+    </element>
+</database>
